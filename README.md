@@ -1,5 +1,3 @@
-READ ME:
-
 
 #  Node JS Implementation of coffee machine
 
