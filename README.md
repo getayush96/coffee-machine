@@ -18,4 +18,3 @@ Steps to test:
 * npm install
 * run: npm test
 
-author: Ayush Maheshwari
