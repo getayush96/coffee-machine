@@ -19,3 +19,4 @@ Steps to test:
 * run: `npm install`
 * run: `npm test`
 
+![Flow DIagram](https://github.com/getayush96/coffee-machine/blob/main/Flow%20Diagram.png)
